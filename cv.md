@@ -4,9 +4,9 @@
 
 ### Contacts
 
-**E-mail:** yu.varfolomeyeva@gmail.com
-**GitHub:** yuliyavarf
-**Discord:** juliana7799
+- **E-mail:** yu.varfolomeyeva@gmail.com
+- **GitHub:** yuliyavarf
+- **Discord:** juliana7799
 
 ---
 
